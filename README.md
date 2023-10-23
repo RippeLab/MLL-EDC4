@@ -1,5 +1,5 @@
 # MLL-EDC4
-scRNA-seq analysis scripts to analyze the data from the paper "Prognitor like cell type of an MLL-EDC4 fusion in acute myeloid leukemia", Schuster et al., Blood advances, 2023.
+scRNA-seq analysis scripts to analyze the data from the paper "Progenitor like cell type of an MLL-EDC4 fusion in acute myeloid leukemia", Schuster et al., Blood advances, 2023.
 
 One sample from the novel MLL-EDC4 AML patient sample.
 Three samples from most common MLL fusion MLL-MLLT3 AML patient samples.
