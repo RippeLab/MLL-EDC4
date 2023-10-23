@@ -8,4 +8,5 @@ One sample from the less common MLL fusion MLL-ELL AML patient sample.
 
 # Reference
 Progenitor like cell type of an MLL-EDC4 fusion in acute myeloid leukemia
-PMID: 37820244 Blood Adv. 2023 Oct 11:bloodadvances.2022009096. doi: 10.1182/bloodadvances.2022009096.
+PMID: 37820244 Blood Adv. 2023 Oct 11:bloodadvances.2022009096. 
+doi: 10.1182/bloodadvances.2022009096.
